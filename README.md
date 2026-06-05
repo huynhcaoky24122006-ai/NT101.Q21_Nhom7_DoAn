@@ -104,9 +104,6 @@ Xây dựng chuỗi video hướng dẫn sử dụng các công cụ giám sát 
 │   ├── Resources/
 │   └── Program.cs
 │
-├── Report/
-│   └── BaoCaoNhom7.pdf
-│
 ├── Videos/
 │   ├── Bai1.mp4 (Netstat & Fport)
 │   ├── Bai2.mp4 (TCPView & Currport)
